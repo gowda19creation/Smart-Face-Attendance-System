@@ -3,9 +3,9 @@ The system identifies registered students through a webcam, displays their names
 and records attendance with date and time automatically.
 
 Technologies Used
-Python
-OpenCV
-NumPy
-Pandas
-LBPH Face Recognizer
-Haar Cascade Face Detection
+Python,
+OpenCV,
+NumPy,
+Pandas,
+LBPH Face Recognizer,
+Haar Cascade Face Detection.
