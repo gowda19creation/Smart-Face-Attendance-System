@@ -1,11 +1,16 @@
-Developed an automated attendance management system using Python, OpenCV, and LBPH Face Recognition.
-The system identifies registered students through a webcam, displays their names in real time,
-and records attendance with date and time automatically.
+# Smart Attendance System
 
-Technologies Used
-Python,
-OpenCV,
-NumPy,
-Pandas,
-LBPH Face Recognizer,
-Haar Cascade Face Detection.
+A Face Recognition Based Attendance System built using Python, OpenCV and LBPH.
+
+## Features
+- Real-time face recognition
+- Automatic attendance marking
+- Date and time logging
+- Student face dataset management
+
+## Technologies
+- Python
+- OpenCV
+- Pandas
+- NumPy
+- LBPH Face Recognizer
